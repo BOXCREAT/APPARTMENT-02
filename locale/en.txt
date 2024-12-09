@@ -1,0 +1,17 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = APARTMENT 02
+
+## Media
+
+### Title
+panorama_A18922E7_AB12_5923_41DA_C33D39D415EA.label = AP 01 EDITED  (1)
+panorama_A2D90963_AB12_6B22_41E3_3E33F44E8274.label = AP 01 EDITED  (3)
+panorama_A2D97DF5_AB13_AB26_41B6_5909B84E23A1.label = AP 01 EDITED  (5)
+panorama_A2DCBFE7_AB12_6722_41E4_809E43876B1F.label = AP 01 EDITED  (2)
+panorama_A5F4C2F9_AB32_792E_41B8_FA0FF11B824F.label = AP 08
